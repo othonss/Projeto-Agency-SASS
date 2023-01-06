@@ -1,5 +1,12 @@
 # Projeto Agency
 
+| :placard: Vitrine.Dev | Othon Santos da Silva |
+| -------------  | --- |
+| :sparkles: Name        | **Agency**
+| :label: Technologies | HTML, CSS e SASS
+| :bulb: Skills        | Layout responsivo
+| :rocket: URL         | https://othonss.github.io/Projeto-Agency-SASS/
+
 ## Sobre o Agency
 <p>
   É um site desenvolvido, durante o curso de SASS da Udemy, por Matheus Battisti do canal <strong>Hora de Codar</strong>. Envolvendo conceitos importantes sobre o pré-processador e também como estruturar bem um projeto desenvolvido com SASS. 
@@ -10,7 +17,7 @@
 
 ## Layout web
 
-<img src="layout/agency.png" width="800"/>
+<img src="layout/agency.png#vitrinedev" width="800"/ alt="vitrine.dev thumb">
 <img src="layout/agency-desk-1.png" width="800"/>
 <img src="layout/agency-desk-2.png" width="800"/>
 <img src="layout/agency-desk-3.png" width="800"/>
@@ -23,16 +30,6 @@
   <img src="layout/agency-mob-3.png" width="300" />
   <img src="layout/agency-mob-4.png" width="300" />
 </div>
-
-## Tecnologias utilizadas
-<p>Linguagens e padrões que foram utilizados para desenvolver o app</p>
-
-## Front-end
-- HTML
-- SASS
-
-### Competências 
-- Layout responsivo 
 
 ## Como executar o projeto
 
