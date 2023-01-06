@@ -17,7 +17,7 @@
 
 ## Layout web
 
-<img src="layout/agency.png#vitrinedev" width="800"/ alt="vitrine.dev thumb">
+<img src="layout/agency.png" width="800">
 <img src="layout/agency-desk-1.png" width="800"/>
 <img src="layout/agency-desk-2.png" width="800"/>
 <img src="layout/agency-desk-3.png" width="800"/>
