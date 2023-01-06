@@ -7,6 +7,8 @@
 | :bulb: Skills        | Layout responsivo
 | :rocket: URL         | https://othonss.github.io/Projeto-Agency-SASS/
 
+![](https://raw.githubusercontent.com/othonss/Projeto-Agency-SASS/main/layout/agency.png#vitrinedev)
+
 ## Sobre o Agency
 <p>
   É um site desenvolvido, durante o curso de SASS da Udemy, por Matheus Battisti do canal <strong>Hora de Codar</strong>. Envolvendo conceitos importantes sobre o pré-processador e também como estruturar bem um projeto desenvolvido com SASS. 
